@@ -567,7 +567,7 @@ div[data-dimension] {
   display: inline;
   width: 100%;
 }
-.course_nav{}
+/* .course_nav{} */
 .course_nav li {
   display: block;
   float: left;
@@ -753,7 +753,7 @@ div[data-dimension] {
   display: inline;
   width: 100%;
 }
-.tutors_nav{}
+/* .tutors_nav{} */
 
 .tutors_nav>li {
   display: block;
